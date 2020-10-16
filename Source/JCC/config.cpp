@@ -1,3 +1,4 @@
+class CfgPatches
 {
    class JCC
    {
@@ -7,6 +8,7 @@
        requiredAddons[] = {"A3_Modules_F", "A3_Modules_F_Curator"};
    };
 };
+
 class CfgGroups
 {
 	class Empty
