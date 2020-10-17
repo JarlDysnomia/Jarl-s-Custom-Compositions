@@ -21,7 +21,7 @@ class CfgPatches
 			class NATO
 			{
 				name = "NATO";
-				class NATO_Aid_Station
+				class natoAidStation
 				{
 					name = "NATO Aid Station";
 					class Object1 {side=8;vehicle="PortableHelipadLight_01_red_F";rank="";position[]={2.8634,-3.37061,-0.00261307};dir=359.996;};
@@ -89,7 +89,7 @@ class CfgPatches
 					class Object63 {side=8;vehicle="Box_C_IDAP_UAV_06_medical_F";rank="";position[]={-11.745,-18.0933,-0.00143909};dir=89.6349;};
 					class Object64 {side=8;vehicle="Box_C_IDAP_UAV_06_medical_F";rank="";position[]={-11.7479,-18.106,-0.00143909};dir=89.6349;};
 				};
-				class NATO_Mortar_Pit
+				class natoMortarPit
 				{
 					name = "NATO Mortar Pit";
 					class Object1 {side=8;vehicle="Land_SandbagBarricade_01_F";rank="";position[]={-0.336426,1.87646,-0.00143909};dir=90.7758;};
@@ -146,7 +146,7 @@ class CfgPatches
 					class Object52 {side=8;vehicle="Land_SandbagBarricade_01_half_F";rank="";position[]={-11.9551,-8.33569,-0.00143909};dir=179.401;};
 					class Object53 {side=8;vehicle="Land_SandbagBarricade_01_F";rank="";position[]={-12.5815,8.14771,-0.00143909};dir=270.586;};
 				};
-				class NATO_Refuel_&_Rearm
+				class natoRefuelRearm
 				{
 					name = "NATO Refuel & Rearm";
 					class Object1 {side=8;vehicle="Land_RefuelingHose_01_F";rank="";position[]={4.59521,-0.791504,-0.00143957};dir=360;};
@@ -234,7 +234,7 @@ class CfgPatches
 					class Object21 {side=8;vehicle="Land_SurvivalRadio_F";rank="";position[]={-5.19482,-3.10571,-0.00143909};dir=73.1444;};
 					class Object22 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={-7.80664,-1.8374,-0.00143909};dir=181.548;};
 				};
-				class FIA_Water_Supply
+				class fiaWaterSupply
 				{
 					name = "FIA Water Supply";
 					class Object1 {side=8;vehicle="Land_Garbage_square3_F";rank="";position[]={0.64502,-2.43115,-0.00143909};dir=245.241;};
@@ -581,7 +581,7 @@ class CfgPatches
 					class Object12 {side=8;vehicle="RoadBarrier_F";rank="";position[]={20.2012,-2.88428,-0.00544024};dir=91.0658;};
 					class Object13 {side=8;vehicle="RoadCone_L_F";rank="";position[]={20.126,-5.87598,-0.00199223};dir=267.326;};
 				};
-				class Razorwire_Barricade
+				class RazorwireBarricade
 				{
 					name = "Razorwire Barricade";
 					class Object1 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={0.0986328,2.06934,-0.00143909};dir=83.9073;};
@@ -704,7 +704,7 @@ class CfgPatches
 			class CSAT
 			{
 				name = "CSAT";
-				class CSAT_Artillery
+				class csatArtillery
 				{
 					name = "CSAT Artillery";
 					class Object1 {side=8;vehicle="Land_Garbage_square3_F";rank="";position[]={-1.0752,0.415039,-0.00143909};dir=139.64;};
@@ -723,7 +723,7 @@ class CfgPatches
 					class Object14 {side=8;vehicle="Land_HBarrier_5_F";rank="";position[]={-1.70166,10.8901,-0.00143909};dir=0;};
 					class Object15 {side=8;vehicle="ModuleCurator_F";rank="";position[]={-15.6704,3.83984,-0.00143909};dir=0;};
 				};
-				class CSAT_Refuel_&_Rearm
+				class csatRefuelRearm
 				{
 					name = "CSAT Refuel & Rearm";
 					class Object1 {side=8;vehicle="Land_SolarPanel_04_olive_F";rank="";position[]={-2.24365,4.80713,-0.0172024};dir=351.985;};
@@ -755,7 +755,7 @@ class CfgPatches
 			class AAF
 			{
 				name = "AAF";
-				class AAF_QRF
+				class aafQrf
 				{
 					name = "AAF QRF";
 					class Object1 {side=8;vehicle="Land_CampingChair_V2_F";rank="";position[]={-6.20215,1.71826,-0.00143719};dir=152.914;};
@@ -816,7 +816,7 @@ class CfgPatches
 					class Object56 {side=8;vehicle="Land_DeskChair_01_olive_F";rank="";position[]={20.8062,3.73975,-0.00244141};dir=255.991;};
 					class Object57 {side=8;vehicle="PortableHelipadLight_01_blue_F";rank="";position[]={19.6069,-12.6421,-0.00143909};dir=359.996;};
 				};
-				class AAF_Checkpoint
+				class aafCheckpoint
 				{
 					name = "AAF Checkpoint";
 					class Object1 {side=8;vehicle="Land_dirt_road_damage_long_01_F";rank="";position[]={1.49756,2.66113,-0.00143909};dir=0;};
@@ -970,7 +970,7 @@ class CfgPatches
 					class Object149 {side=8;vehicle="Land_HBarrier_Big_F";rank="";position[]={-20.6504,-22.0488,-0.00143909};dir=0;};
 					class Object150 {side=8;vehicle="Land_HBarrier_Big_F";rank="";position[]={-23.8833,-18.8198,-0.00143909};dir=91.1435;};
 				};
-				class AAF_Refuel_&_Rearm
+				class aafRefuelArm
 				{
 					name = "AAF Refuel & Rearm";
 					class Object1 {side=8;vehicle="FlexibleTank_01_sand_F";rank="";position[]={2.20557,1.06689,-0.00145388};dir=0.00720897;};
