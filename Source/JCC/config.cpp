@@ -675,9 +675,9 @@ class CfgPatches
 					class Object43 {side=8;vehicle="Land_Garbage_square3_F";rank="";position[]={5.08838,-4.229,-0.00143909};dir=349.631;};
 					class Object44 {side=8;vehicle="ModuleCurator_F";rank="";position[]={41.6118,-12.9966,-0.00143909};dir=0;};
 				};
-				class Transmitter
+				class Transmitter1
 				{
-					name = "Transmitter";
+					name = "Transmitter 1";
 					class Object1 {side=8;vehicle="Land_GarbageHeap_02_F";rank="";position[]={4.49268,-1.625,-0.00143576};dir=0.223;};
 					class Object2 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={5.20557,-3.04053,-0.00143909};dir=359.224;};
 					class Object3 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={5.07227,0.391602,-0.00143909};dir=224.714;};
@@ -1102,54 +1102,3 @@ class CfgPatches
 		};
 	};
 };
-			
-		
-	
-
-		
-		
-	
-
-			
-		
-	
-
-		
-	
-
-		
-	
-		
-	
-
-			
-		
-	
-
-			
-		
-	
-
-			
-
-			
-		
-
-
-			
-		
-	
-
-			
-		
-	
-
-			
-		
-	
-			
-		
-	
-			
-		
-	
