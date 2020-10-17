@@ -14,10 +14,10 @@
 **JCC** is a Custom Compositions mod for Zeus and Eden, aiming to provide high-quality vanilla compositions. The goal is to also do other compositions that aren't seen a lot but could still be useful.
 
 ## Existing Categories
-NATO
-FIA
-General
-IDAP
+* NATO
+* FIA
+* General
+* IDAP
 
 At this time there is not a lot of structures but we will add more over time and make sure they work! Hope you will enjoy what we have so far.
 
