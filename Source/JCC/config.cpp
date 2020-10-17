@@ -582,7 +582,7 @@ class CfgPatches
 					class Object12 {side=8;vehicle="RoadBarrier_F";rank="";position[]={20.2012,-2.88428,-0.00544024};dir=91.0658;};
 					class Object13 {side=8;vehicle="RoadCone_L_F";rank="";position[]={20.126,-5.87598,-0.00199223};dir=267.326;};
 				};
-				class RazorwireBarricade
+				class razorwireBarricade
 				{
 					name = "Razorwire Barricade";
 					class Object1 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={0.0986328,2.06934,-0.00143909};dir=83.9073;};
