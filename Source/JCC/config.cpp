@@ -674,7 +674,6 @@ class CfgPatches
 					class Object41 {side=8;vehicle="Land_PaperBox_closed_F";rank="";position[]={4.04297,-5.04639,-0.00143909};dir=0;};
 					class Object42 {side=8;vehicle="Land_TinContainer_F";rank="";position[]={-4.45996,-4.68457,0.121269};dir=231.624;};
 					class Object43 {side=8;vehicle="Land_Garbage_square3_F";rank="";position[]={5.08838,-4.229,-0.00143909};dir=349.631;};
-					class Object44 {side=8;vehicle="ModuleCurator_F";rank="";position[]={41.6118,-12.9966,-0.00143909};dir=0;};
 				};
 				class transmitter1
 				{
