@@ -341,6 +341,7 @@ class CfgPatches
 					class Object44 {side=8;vehicle="Land_BagFence_Round_F";rank="";position[]={9.00684,-4.71045,0.462264};dir=282.984;};
 					class Object45 {side=8;vehicle="Land_BagFence_Round_F";rank="";position[]={-10.0068,-3.77881,-0.00274038};dir=64.517;};
 				};
+			};
 	        class IDAP 
 			{
 				name = "IDAP";
@@ -751,6 +752,7 @@ class CfgPatches
 					class Object23 {side=8;vehicle="PortableHelipadLight_01_white_F";rank="";position[]={7.59277,-11.105,-0.00143909};dir=0.00177036;};
 					class Object24 {side=8;vehicle="PortableHelipadLight_01_yellow_F";rank="";position[]={4.61816,-14.0474,-0.00143909};dir=359.996;};
 					class Object25 {side=8;vehicle="PortableHelipadLight_01_yellow_F";rank="";position[]={10.8325,-10.4863,-0.00143909};dir=359.996;};
+				};
 			};
 			class AAF
 			{
