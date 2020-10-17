@@ -721,7 +721,6 @@ class CfgPatches
 					class Object12 {side=8;vehicle="Land_HBarrier_3_F";rank="";position[]={-2.51074,11.0479,-0.00143909};dir=113.937;};
 					class Object13 {side=8;vehicle="Land_HBarrier_3_F";rank="";position[]={3.35156,10.8926,-0.00143909};dir=58.9842;};
 					class Object14 {side=8;vehicle="Land_HBarrier_5_F";rank="";position[]={-1.70166,10.8901,-0.00143909};dir=0;};
-					class Object15 {side=8;vehicle="ModuleCurator_F";rank="";position[]={-15.6704,3.83984,-0.00143909};dir=0;};
 				};
 				class csatRefuelRearm
 				{
