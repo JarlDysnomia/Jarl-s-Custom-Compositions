@@ -1023,9 +1023,9 @@ class CfgPatches
 					class Object35 {side=8;vehicle="Box_Syndicate_Wps_F";rank="";position[]={1.48828,-11.9165,-0.00243855};dir=360;};
 					class Object36 {side=8;vehicle="Box_Syndicate_Wps_F";rank="";position[]={2.54053,-11.8994,0.0157061};dir=360;};
 				};
-				class syndikatExecution
+				class syndikatExecutionEnclosure
 				{
-					name = "Syndikat Execution";
+					name = "Syndikat Execution Enclosure";
 					class Object1 {side=8;vehicle="Land_BagFence_Short_F";rank="";position[]={1.80176,3.4375,-0.00243902};dir=0;};
 					class Object2 {side=8;vehicle="Land_BagFence_Long_F";rank="";position[]={-1.8584,3.50195,-0.00243902};dir=0;};
 					class Object3 {side=8;vehicle="Land_Ammobox_rounds_F";rank="";position[]={-1.979,3.89063,-0.00160646};dir=0.00343248;};
@@ -1421,31 +1421,6 @@ class CfgPatches
 					class Object41 {side=8;vehicle="Land_PaperBox_closed_F";rank="";position[]={4.04297,-5.04639,-0.00143909};dir=0;};
 					class Object42 {side=8;vehicle="Land_TinContainer_F";rank="";position[]={-4.45996,-4.68457,0.121269};dir=231.624;};
 					class Object43 {side=8;vehicle="Land_Garbage_square3_F";rank="";position[]={5.08838,-4.229,-0.00143909};dir=349.631;};
-				};
-				class transmitter1
-				{
-					name = "Transmitter 1";
-					class Object1 {side=8;vehicle="Land_GarbageHeap_02_F";rank="";position[]={4.49268,-1.625,-0.00143576};dir=0.223;};
-					class Object2 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={5.20557,-3.04053,-0.00143909};dir=359.224;};
-					class Object3 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={5.07227,0.391602,-0.00143909};dir=224.714;};
-					class Object4 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={1.21436,-7.00049,-0.00143909};dir=89.631;};
-					class Object5 {side=8;vehicle="Land_spp_Transformer_F";rank="";position[]={0.431152,5.20313,-0.00143909};dir=0;};
-					class Object6 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={7.59717,-2.98486,-0.00143909};dir=359.224;};
-					class Object7 {side=8;vehicle="Land_dp_transformer_F";rank="";position[]={-6.31689,-0.960938,-0.00143909};dir=0;};
-					class Object8 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-4.78467,-7.00928,-0.00143909};dir=91.0779;};
-					class Object9 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-4.45459,-3.01416,-0.00143909};dir=359.224;};
-					class Object10 {side=8;vehicle="Land_GarbageBin_02_F";rank="";position[]={2.07959,-6.91064,-0.00143909};dir=0;};
-					class Object11 {side=8;vehicle="Land_dp_transformer_F";rank="";position[]={-6.34961,3.3667,-0.00143909};dir=0;};
-					class Object12 {side=8;vehicle="Land_Net_Fence_Gate_F";rank="";position[]={3.18457,-7.01025,-0.00143909};dir=0;};
-					class Object13 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={7.63428,-3.00684,-0.00143909};dir=89.631;};
-					class Object14 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-8.4375,-3.06836,-0.00143909};dir=89.631;};
-					class Object15 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={7.59961,0.977539,-0.00143909};dir=89.6309;};
-					class Object16 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={7.5708,8.97217,-0.00143909};dir=0;};
-					class Object17 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={-8.43262,8.94678,-0.00143909};dir=270.429;};
-					class Object18 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={-0.410645,8.96582,-0.00143909};dir=0;};
-					class Object19 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.15479,6.07129,-0.00143909};dir=0;};
-					class Object20 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.04004,8.18506,-0.00143909};dir=0;};
-					class Object21 {side=8;vehicle="Land_TTowerBig_2_F";rank="";position[]={4.4126,5.26807,-0.00143909};dir=270.213;};
 				};
 				class powCamp
 				{
@@ -2396,6 +2371,30 @@ class CfgPatches
 					class Object41 {side=8;vehicle="Land_Sacks_goods_F";rank="";position[]={-10.043,1.32422,-0.00143909};dir=0;};
 					class Object42 {side=8;vehicle="Land_Cages_F";rank="";position[]={-9.95557,-2.18652,-0.00143909};dir=0;};
 				};
+				class civilianTransmitterPost
+				{
+					name = "Civilian Transmitter Post";
+					class Object1 {side=8;vehicle="Land_GarbageHeap_02_F";rank="";position[]={4.49268,-1.625,-0.00143576};dir=0.223;};
+					class Object2 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={5.20557,-3.04053,-0.00143909};dir=359.224;};
+					class Object3 {side=8;vehicle="Land_Garbage_square5_F";rank="";position[]={5.07227,0.391602,-0.00143909};dir=224.714;};
+					class Object4 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={1.21436,-7.00049,-0.00143909};dir=89.631;};
+					class Object5 {side=8;vehicle="Land_spp_Transformer_F";rank="";position[]={0.431152,5.20313,-0.00143909};dir=0;};
+					class Object6 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={7.59717,-2.98486,-0.00143909};dir=359.224;};
+					class Object7 {side=8;vehicle="Land_dp_transformer_F";rank="";position[]={-6.31689,-0.960938,-0.00143909};dir=0;};
+					class Object8 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-4.78467,-7.00928,-0.00143909};dir=91.0779;};
+					class Object9 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-4.45459,-3.01416,-0.00143909};dir=359.224;};
+					class Object10 {side=8;vehicle="Land_GarbageBin_02_F";rank="";position[]={2.07959,-6.91064,-0.00143909};dir=0;};
+					class Object11 {side=8;vehicle="Land_dp_transformer_F";rank="";position[]={-6.34961,3.3667,-0.00143909};dir=0;};
+					class Object12 {side=8;vehicle="Land_Net_Fence_Gate_F";rank="";position[]={3.18457,-7.01025,-0.00143909};dir=0;};
+					class Object13 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={7.63428,-3.00684,-0.00143909};dir=89.631;};
+					class Object14 {side=8;vehicle="Land_Net_Fence_4m_F";rank="";position[]={-8.4375,-3.06836,-0.00143909};dir=89.631;};
+					class Object15 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={7.59961,0.977539,-0.00143909};dir=89.6309;};
+					class Object16 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={7.5708,8.97217,-0.00143909};dir=0;};
+					class Object17 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={-8.43262,8.94678,-0.00143909};dir=270.429;};
+					class Object18 {side=8;vehicle="Land_Net_Fence_8m_F";rank="";position[]={-0.410645,8.96582,-0.00143909};dir=0;};
+					class Object19 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.15479,6.07129,-0.00143909};dir=0;};
+					class Object20 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.04004,8.18506,-0.00143909};dir=0;};
+					class Object21 {side=8;vehicle="Land_TTowerBig_2_F";rank="";position[]={4.4126,5.26807,-0.00143909};dir=270.213;};
 			};
 		};
 	};
