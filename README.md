@@ -15,7 +15,10 @@
 
 ## Existing Categories
 * NATO
+* CSAT
+* AAF
 * FIA
+* Syndikat
 * General
 * IDAP
 
