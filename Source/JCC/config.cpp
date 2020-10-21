@@ -2395,6 +2395,7 @@ class CfgPatches
 					class Object19 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.15479,6.07129,-0.00143909};dir=0;};
 					class Object20 {side=8;vehicle="Land_PowLines_Transformer_F";rank="";position[]={-7.04004,8.18506,-0.00143909};dir=0;};
 					class Object21 {side=8;vehicle="Land_TTowerBig_2_F";rank="";position[]={4.4126,5.26807,-0.00143909};dir=270.213;};
+				};
 			};
 		};
 	};
